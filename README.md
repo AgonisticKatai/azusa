@@ -1,6 +1,7 @@
-![](http://itjobzth.com/welcome.png)
-
 Proyecto para la creación de una intranet para una empresa de traducción
+
+
+![](http://itjobzth.com/welcome.png)
 
 
 [![HTML5,CSS3 and JS](https://github.com/FransLopez/logo-images/blob/master/logos/html5-css3-js.png)](http://www.w3.org/)

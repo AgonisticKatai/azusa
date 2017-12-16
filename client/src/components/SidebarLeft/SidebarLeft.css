@@ -1,0 +1,9 @@
+.drawer {
+  top: 64px!important;
+}
+
+.subheader {
+  cursor: pointer;
+  text-align: right;
+  padding-right: 20px;
+}

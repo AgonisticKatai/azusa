@@ -1,0 +1,12 @@
+.appbar {
+  background-color: #ffffff !important;
+}
+
+.appbar h1 {
+  color: #0aa89e !important;
+}
+
+.appbar button svg {
+  color: #0aa89e !important;
+  background-color: #0aa89e !important;
+}
